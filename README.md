@@ -1,1 +1,1 @@
-My first readme
+my second job as a student
